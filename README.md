@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/pablo-zalazar">
   
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennish02&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-zalazar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h2>Sobre mí</h2>
