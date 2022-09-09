@@ -63,24 +63,6 @@
   </p>
 </div>
 
-<div>
-    <h2>Mis Proyectos</h2>
-    <h3>NFT Market</h3>
-    <p>Plataforma de intercambio de NFTs</p>
-    <p>Tecnologías | React - Redux - Socket io - Sass - Gulp - JWT | Node - Express - MongoDb - Mongoose </p>
-    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/57506571/172021063-2b08c060-2a2d-49a2-ac0a-75715ea1c867.png' />
-    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/57506571/172022647-fe11fd2c-461c-48a9-887d-1f52f7647d14.png' />
-    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/57506571/172022649-ceeae63f-b825-4132-8deb-b09102c80fe1.png' />
-    <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/57506571/172022657-c122fb11-9d4c-4455-9c4a-36bfc9bc6dd4.png' />
-
-  <h3>API Videojuegos</h3>
-  <p>Plataforma de videojuegos</p>
-  <p>Tecnologías | React - Redux | Node - Express - PostgreSQL </p>
-  <img alt='home' src='https://user-images.githubusercontent.com/57506571/172264108-16f191ef-0221-4979-9703-ba8e42d636cf.PNG' />
-  <img alt='home filtrado' src='https://user-images.githubusercontent.com/57506571/172264116-a2130be7-9d1a-43cd-b537-a128e7b78341.PNG' />
-  <img alt='formulario crear' src='https://user-images.githubusercontent.com/57506571/172264120-9d8e781e-6885-4604-8a7d-d946536dd7ca.PNG' />
-</div>
-
 <div> 
     <h2>Mis Redes</h2>
     <a href = "mailto:pablo_zalazar@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
