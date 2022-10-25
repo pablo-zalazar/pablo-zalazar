@@ -64,7 +64,13 @@
 </div>
 
 <div> 
-    <h2>Mis Redes</h2>
+    <h2>Informacion</h2>
     <a href = "mailto:pablo_zalazar@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pablo-gabriel-zalazar-ba4a83186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div> 
+    <h2>Contacto</h2>
+    <p>Telefono (+54)11304179041</p>
+    <p>Mail pablo_zalazar@outlook.com</p>
 </div>
