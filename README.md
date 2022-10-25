@@ -73,5 +73,6 @@
     <h2>Contacto</h2>
     <p>Telefono (+54)11304179041</p>
     <p>Mail pablo_zalazar@outlook.com</p>
+    <a href="https://www.linkedin.com/in/pablozalazar/" target="_blank">LinkedIn</a>
     <a href="https://pablo-zalazar.netlify.app/" target="_blank">Portfolio</a>
 </div>
