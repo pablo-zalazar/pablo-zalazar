@@ -8,10 +8,8 @@
 
 <h2>Sobre mí</h2>
 <p>
-  Soy un estudiante de informática con gran interés en el desarrollo web con orientacion al Front
-  End, con gran motivación en implementar mis conocimientos y aprender nuevas tecnologías. Me
-  considero una persona responsable, autónoma, comunicativa y con buena adaptabilidad a
-  diferentes puestos y grupos de trabajo.  
+  Soy un desarrollador Fullstack responsable, autodidacta y flexible con gran adaptabilidad a diferentes puestos y grupos de trabajo, con una gran predisposición trabajar en equipo y siempre mejorar mis habilidades o adquirir nuevas.
+
 </p>
 
 <div style="display: inline_block">
